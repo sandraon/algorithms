@@ -8,9 +8,7 @@ Project contains two examples:
 
 Things you need to install the software
 
-```
-Python IDE Thonny - https://thonny.org/
-```
+* [Python IDE Thonny](https://thonny.org/)
 
 ### Installing
 
@@ -34,7 +32,7 @@ We use [Git](https://git-scm.com/docs) for versioning.
 
 ## Author
 
-* **Sandra Õnne** - *Initial work* - [Sandra Õnne](https://github.com/sandraon)
+* [Sandra Õnne](https://github.com/sandraon)
 
 ## License
 
